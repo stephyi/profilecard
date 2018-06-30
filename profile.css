@@ -1,0 +1,23 @@
+body{
+    background-color: #0f95ee;
+}
+
+
+.checked{
+    color:yellow;
+}
+p.solid {
+    outline-style: solid;
+    outline-color:lightblue;
+}
+.div{
+    margin:0 auto;
+}
+.details{
+    padding:10px;
+    margin-left:30%;
+}
+.container{
+    height:400px;
+    width:600px;
+}
